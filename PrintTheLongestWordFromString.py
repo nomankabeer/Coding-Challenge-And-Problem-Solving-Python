@@ -2,7 +2,7 @@
  * User: Noman Kabeer
  * Date: 30-Oct-2019
  * Time: 1:12 AM
- * Print the longest word in from string
+ * Print the longest word from string
 '''
 
 def LongestWord(sen):
